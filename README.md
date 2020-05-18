@@ -6,13 +6,19 @@ This repository contains code for a simple utility in TensorFlow and Keras that 
 
 ![](https://i.ibb.co/3T9ZRfM/media-images-top-losses-6-7adba246.png)
 
-The code is accompanied by [this report](https://app.wandb.ai/tulasi1729/plot-top-losses/reports/Plotting-top-loss-images-while-training-models--VmlldzoxMTI0NDk) that contains additional details.
-
 ## About the files
 
 - `plot_losses.ipynb` : Contains plot_top_loss utility to plot images with top losses.
 - `Plot_Top_Losses_Keras_wandb.ipynb` : Weights and Biases(wandb) functionality is added with plot_top_loss utility.
 - `Smoothing_Analysis.ipynb` : Contains label smoothing analysis with different smoothing factors.
+
+## Topics
+- Computer vision
+- Deep Learning
+- Keras
+- CallBacks
+
+The code is accompanied by [this report](https://app.wandb.ai/tulasi1729/plot-top-losses/reports/Plotting-top-loss-images-while-training-models--VmlldzoxMTI0NDk) that contains additional details.
 
 ## Misc details
 - Dataset used: MNIST
