@@ -13,10 +13,11 @@ This repository contains code for a simple utility in TensorFlow and Keras that 
 - `Smoothing_Analysis.ipynb` : Contains label smoothing analysis with different smoothing factors.
 
 ## Topics
-- Computer vision
-- Deep Learning
-- Keras
-- CallBacks
+- `Computer vision`
+- `Deep Learning`
+- `Keras`
+- `CallBacks`
+- `[WeightsandBiases](https://www.wandb.com/)`
 
 The code is accompanied by [this report](https://app.wandb.ai/tulasi1729/plot-top-losses/reports/Plotting-top-loss-images-while-training-models--VmlldzoxMTI0NDk) that contains additional details. Check the report for detailed analysis and uses of this utility.
 
