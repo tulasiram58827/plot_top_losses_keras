@@ -8,7 +8,7 @@ This repository contains code for a simple utility in TensorFlow and Keras that 
 
 ## About the files
 
-- `plot_losses.ipynb` : Contains plot_top_loss utility to plot images with top losses.
+- `plot_losses.ipynb` : Contains plot_top_loss utility to plot images with top losses and also code required to use this utility as **Keras Callback** .
 - `Plot_Top_Losses_Keras_wandb.ipynb` : Weights and Biases(wandb) functionality is added with plot_top_loss utility.
 - `Smoothing_Analysis.ipynb` : Contains label smoothing analysis with different smoothing factors.
 
